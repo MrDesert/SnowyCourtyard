@@ -11,7 +11,9 @@
     "promo": {
         "banners": [
             "PROMO/BANNERS/SnowyCourtyardADBanner1.jpeg",
+            "PROMO/BANNERS/SnowyCourtyardADBanner1.gif",
             "PROMO/BANNERS/SnowyCourtyardADBanner2.jpeg",
+            "PROMO/BANNERS/SnowyCourtyardADBanner2.gif",
             "PROMO/BANNERS/SnowyCourtyardADBanner3.jpeg"
         ],
         "videos": []
